@@ -17,7 +17,6 @@ It is the vision of me and my family to **move to Japan** in the future to make 
 - I overcame my fear of heights by **gliding**
 - I folded **1,000 cranes** from origami paper
 - I performed in **poetry slam** to learn to speak in front of people
-  - Indented with two spaces. That's it!
 
 ## Contributions 👨‍💻
 _coming soon :)_
