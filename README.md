@@ -11,8 +11,13 @@ This goal drives me to give my best every day. From now on I want to contribute 
 ## Vision 🇯🇵
 It is the vision of me and my family to **move to Japan** in the future to make a difference in our environment through our work and also through our being. 
 
-## Fun Fact 🎭
-I am a passionate **improv theater** player and teacher.
+## Fun Facts 🎭
+- I am a passionate **improv theater** player and teacher
+- I did my community service at the **drug counseling center** 
+- I overcame my fear of heights by **gliding**
+- I folded **1,000 cranes** from origami paper
+- I performed in **poetry slam** to learn to speak in front of people
+  - Indented with two spaces. That's it!
 
 ## Contributions 👨‍💻
 _coming soon :)_
