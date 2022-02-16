@@ -17,5 +17,6 @@ I am a passionate **improv theater** player and teacher.
 ## Contributions 👨‍💻
 _coming soon :)_
 
-### Inspirational and motivational quote by James Clear:
+## Some Wisdom At The End 🌟
+Last but not least an inspiring and motivating quote by James Clear that helps me staying focused and letting go all kinds of pressure and anxiety.
 > Most things are not as difficult as they seem—if you focus each day. However, giving one topic your full attention for an extended period of time is even harder than it seems. Over a long timeline, the bottleneck is usually attention not ability."
