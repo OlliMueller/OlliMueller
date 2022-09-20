@@ -1,5 +1,5 @@
 ## Fun Facts About Me🎭
-- I am attending a **Coding Bootcamp** to work as a Frontend Developer asap
+- Attended **Coding Bootcamp** to learn skills for a Frontend Developer
 - I speak **Japanese** and studied in Kyoto
 - I am a passionate **improv theater** player and teacher
 - I overcame my fear of heights by **gliding**
